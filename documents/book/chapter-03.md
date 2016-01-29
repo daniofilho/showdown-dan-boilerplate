@@ -1,0 +1,15 @@
+# Chapter 03
+
+## This is the example I told you that you could make your own Showdown Extensions.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla finibus velit ac mi vehicula, eu aliquam ex venenatis. Proin quis eros quis leo commodo viverra sed eget ex. Quisque in diam rutrum, scelerisque augue in, iaculis ex. Sed arcu lacus, scelerisque eget risus nec, suscipit dictum mauris. Pellentesque pretium lorem non felis efficitur, vitae auctor nulla sagittis. Duis id aliquet leo. Phasellus convallis orci nunc, non faucibus lorem condimentum ac.
+
+!C
+**I`m inside a span that is centered, inspect me on your browser :D**
+!/C
+
+Mauris in felis urna. Integer in tincidunt libero, a ultricies quam. Proin id urna ligula. Nunc dignissim urna sed condimentum varius. Morbi ultrices hendrerit eros. Etiam id velit in risus feugiat pulvinar. Integer accumsan metus eros, sed cursus orci auctor et. Fusce in tortor vitae neque consectetur cursus. Suspendisse bibendum velit nisl, tristique convallis elit pretium in. Etiam et dui justo. Morbi hendrerit, risus eget pulvinar iaculis, elit lorem aliquam metus, eget commodo urna nisi eu ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent in volutpat nisl, ac lobortis metus. Nulla vitae iaculis arcu. Curabitur aliquam nunc non sollicitudin congue.
+
+Phasellus tincidunt, diam sit amet imperdiet cursus, tortor augue laoreet tortor, eu ullamcorper dolor tellus ac elit. Sed vulputate, nulla at mollis iaculis, nisl quam posuere ligula, ut feugiat sapien ex nec libero. Nullam id augue ex. Duis non sem molestie, faucibus metus vel, facilisis tellus. Morbi convallis nisl ac consectetur sodales. Duis ultricies lobortis ipsum. Phasellus scelerisque ipsum quam, et vestibulum enim tempor laoreet. Duis congue accumsan risus, ac vestibulum nulla laoreet id. Aliquam suscipit convallis sem, eu pretium erat volutpat ac. Integer ultricies, nisi vitae fermentum suscipit, lacus mauris viverra mauris, a finibus tellus magna sit amet ipsum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus pretium dapibus lectus, nec feugiat odio sagittis at. Quisque felis nibh, ullamcorper ac ligula ac, fermentum blandit orci. Etiam id pellentesque dolor.
+
+Duis sit amet bibendum dolor, vitae pellentesque enim. Quisque vitae leo libero. Suspendisse est quam, vulputate vitae enim in, ornare posuere felis. In odio urna, aliquet at mattis eu, blandit quis odio. Phasellus molestie augue magna, facilisis luctus mi consequat in. Praesent ultricies sollicitudin nunc vitae pharetra. Vivamus posuere ullamcorper magna. Ut augue justo, interdum in condimentum nec, fermentum ut ex. Aenean convallis nisi eget mauris malesuada congue. Proin leo ligula, vulputate vel pulvinar eu, vulputate a orci. Mauris quis lectus blandit, dignissim ante vel, maximus erat. Suspendisse eget venenatis dui. Quisque a iaculis tellus, id mollis dui. Ut vehicula justo id vulputate dignissim. Cras convallis orci vitae ultricies faucibus. Cras at purus sit amet arcu lacinia auctor eget in lectus.

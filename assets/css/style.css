@@ -1,0 +1,90 @@
+body {
+   background-attachment: fixed;
+   padding: 0px !important;
+}
+p, table, hr, .box { margin-bottom:25px; color: #333; }
+
+li {  margin-bottom: 10px; }
+
+code, pre { padding: 1px 5px !important; }
+pre ol {
+   padding-left: 10px !important;
+   padding-top: 10px !important;
+}
+blockquote pre ol {
+   padding-left: 30px !important;
+}
+
+.center {
+   padding: 10px 0px 20px 10px;
+   width: 100%;
+   display: inline-block;
+}
+
+header {
+   background-color: #194460;
+   padding: 10px 20px;
+   margin-bottom: 40px;
+
+   -webkit-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5), 0 1px 1px rgba(255, 255, 255, 0.5) inset;
+      -moz-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5), 0 1px 1px rgba(255, 255, 255, 0.5) inset;
+           box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5), 0 1px 1px rgba(255, 255, 255, 0.5) inset;
+}
+
+   header .wrapper {
+      max-width: 960px;
+      margin: 0px auto;
+   }
+
+   header row {
+      margin-bottom: 0px;
+   }
+
+   header select,
+   header button,
+   header input {
+      width: 100%;
+   }
+
+   header button {
+      background-color: transparent;
+      border: 1px solid #FFF;
+      border-radius: 4px;
+      color: #FFF;
+
+      -webkit-transition: all 0.3s ease-in-out;
+         -moz-transition: all 0.3s ease-in-out;
+          -ms-transition: all 0.3s ease-in-out;
+           -o-transition: all 0.3s ease-in-out;
+              transition: all 0.3s ease-in-out;
+   }
+
+   header button:hover {
+      background-color: #FFF;
+      color: #194460;
+   }
+
+   header .fa {
+      color: #FFF;
+      margin-top: 10px;
+      display: none;
+
+      -webkit-transition: all 0.3s ease-in-out;
+         -moz-transition: all 0.3s ease-in-out;
+          -ms-transition: all 0.3s ease-in-out;
+           -o-transition: all 0.3s ease-in-out;
+              transition: all 0.3s ease-in-out;
+   }
+
+section {
+   max-width: 960px;
+   margin: 0px auto;
+}
+
+   section img {
+      max-width: 100%;
+   }
+
+table { }
+
+   table td { border: 0px !important; }
