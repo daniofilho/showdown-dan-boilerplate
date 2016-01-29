@@ -51,7 +51,13 @@
 		<div class="wrapper">
 			<row>
 
-				 <column cols="9">
+				<column cols="2" class="github-link">
+					<a href="https://github.com/daniofilho/showdown-dan-boilerplate">
+						<i class="fa fa-github"></i> Github Project
+					</a>
+				</column>
+
+				<column cols="6">
 					<select id="select_mdFile">
 		 				<option value=""> - - Select your Markdown File - - </option>
 						<?php
@@ -59,11 +65,11 @@
 								echo "<option value='$file'>$file</option>";
 						?>
 		 			</select>
-				 </column>
+				</column>
 
-				 <column cols="3">
+				<column cols="3">
 					<button id="btn_mdFile" onClick="loadMD()">Load Markdown</button>
-				 </column>
+				</column>
 
 			</row>
 		</div><!-- wrapper -->
