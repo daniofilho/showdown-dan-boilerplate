@@ -1,9 +1,4 @@
-/* Funções para auxiliar na exibição deste manual - Dânio Filho */
-//
-//  Google Prettify
-//  A showdown extension to add Google Prettify (http://code.google.com/p/google-code-prettify/)
-//  hints to showdown's HTML output.
-//
+/* A example of an Extension of Showdown */
 
 (function (extension) {
   'use strict';
@@ -24,7 +19,7 @@
 
 }(function (showdown) {
    'use strict';
-   showdown.extension('custommd', function () {
+   showdown.extension('custom-showdown-extension', function () {
       return [{
          type    : 'html',
          filter: function (source) {
@@ -33,12 +28,12 @@
 
             replaceMe = replaced = "";
 
-               //Centralizar open
+               //Center open
                   replaceMe = "!C";
                   replaced  = "<span class='center'>";
                   source    = source.replaceAll(replaceMe, replaced);
 
-                  //Centralizar close
+                  //Center close
                      replaceMe = "!\/C";
                      replaced  = "</span>";
                      source    = source.replaceAll(replaceMe, replaced);

@@ -6,7 +6,7 @@ function loadMD() {
    var theFile = e.options[e.selectedIndex].value;
 
    //Showdown
-   var converter = new showdown.Converter({extensions: ['prettify', 'custommd']});
+   var converter = new showdown.Converter({extensions: ['prettify', 'custom-showdown-extension']});
 
    //Customize Options Here
    converter.setOption('noHeaderId', 'true');

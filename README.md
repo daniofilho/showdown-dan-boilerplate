@@ -1,6 +1,6 @@
 # showdown-dan-boilerplate
 
-**!WORK IN PROGRESS!**
+**Demo: [http://github.daniofilho.com/showdown-dan-boilerplate/](http://github.daniofilho.com/showdown-dan-boilerplate/)**
 
 A simple project to use as a Boilerplate for loading Markdown content using Showdown.
 
